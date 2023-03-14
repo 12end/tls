@@ -6,7 +6,6 @@ package cpu_test
 
 import (
 	"errors"
-	. "github.com/refraction-networking/utls/cpu"
 	"os"
 	"regexp"
 	"testing"

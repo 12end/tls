@@ -1,4 +1,4 @@
-module github.com/refraction-networking/utls
+module github.com/12end/tls
 
 go 1.19
 
